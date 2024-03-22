@@ -47,7 +47,7 @@ TARGET_INCLUDE_MATLOG := true
 
 # Maintainer
 ALPHA_BUILD_TYPE := Unofficial
-ALPHA_MAINTAINER := eklerismunir
+ALPHA_MAINTAINER := muhammedakyol
 
 # Device identifier
 PRODUCT_NAME := lineage_ginkgo
